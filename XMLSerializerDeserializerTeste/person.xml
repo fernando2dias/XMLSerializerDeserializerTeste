@@ -1,0 +1,16 @@
+﻿<Person>
+	<FirstName>Fernando</FirstName>
+	<LastName>Dias Motta</LastName>
+	<Age>38</Age>
+	<Email>fernando3dias@gmail.com</Email>
+	<Address>
+		<Street>Av. Santa Cruz</Street>
+		<City>Sorocaba</City>
+		<State>SP</State>
+		<PostalCode>10001</PostalCode>
+	</Address>
+	<PhoneNumbers>
+		<PhoneNumber type="home">555-1234</PhoneNumber>
+		<PhoneNumber type="mobile">555-5678</PhoneNumber>
+	</PhoneNumbers>
+</Person>
